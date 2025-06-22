@@ -2,6 +2,7 @@
 
 Hi! I'm Ángel, a PhD student learning how to code and build **professional-looking graphs** using economic datasets.  
 This repository is my personal lab for exploring data visualization and improving my coding skills with **Stata** and **R** (maybe other languages in the future 👀).
+I won't stop until I complete the Pokedex of economic graphs
 
 ---
 
